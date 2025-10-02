@@ -35,12 +35,6 @@ node db_connect.js
 node insert_books.js
 ```
 
-### 3. Run Queries and Indexing
-
-```sh
-node queries.js
-```
-
 ## Features
 
 - Insert sample book data
